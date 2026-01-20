@@ -1,0 +1,9 @@
+{
+  "name": "javascript-event-system",
+  "version": "1.0.0",
+  "description": "Event-driven architecture with pub-sub pattern",
+  "type": "module",
+  "scripts": {
+    "start": "node event-system.js"
+  }
+}
